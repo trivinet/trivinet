@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on projects associated to those field I mentioned, specially aerospace ones. 
 - 📫 How to reach me? 
 -       jostrirui@gmail.com 
--       or 
 -       Jose Triviño Ruiz on Linkedin (https://www.linkedin.com/in/jos%C3%A9-trivi%C3%B1o-ruiz-080349208/)
 <!---
 trivinet/trivinet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
